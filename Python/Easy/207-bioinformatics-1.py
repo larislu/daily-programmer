@@ -8,10 +8,6 @@ replace() function to make the program shorter
 """
 
 origDNA = raw_input('Input DNA: ')
-<<<<<<< HEAD
-=======
-compDNA = ''
->>>>>>> bfe0dd1405b1473e9bcc50d6d1c4cea66a166a1a
 
 compDNA = origDNA.replace('A', '-')
 compDNA = compDNA.replace('T', 'A')
@@ -21,8 +17,4 @@ compDNA = compDNA.replace('C', 'G')
 compDNA = compDNA.replace('-', 'C')
 
 print origDNA
-<<<<<<< HEAD
 print compDNA
-=======
-print ' '.join(compDNA)
->>>>>>> bfe0dd1405b1473e9bcc50d6d1c4cea66a166a1a
