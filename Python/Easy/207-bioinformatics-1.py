@@ -5,7 +5,7 @@ Created on Sat Aug 06 11:40:51 2016
 /u/CirclingNeptune
 """
 
-origDNA = raw_input('Input DNA')
+origDNA = raw_input('Input DNA: ')
 compDNA = ''
 
 for base in origDNA:
