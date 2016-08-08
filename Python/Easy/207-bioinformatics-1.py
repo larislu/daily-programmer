@@ -2,9 +2,6 @@
 """
 Updated last on Sat Aug 06
 /u/CirclingNeptune
-
-I originally wrote this using if statements, but then rewrote it using the
-replace() function to make the program shorter
 """
 
 origDNA = raw_input('Input DNA: ')
