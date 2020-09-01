@@ -1,14 +1,20 @@
 # daily-programmer
-My solutions to [/r/dailyprogrammer] challenges (now includes random LeetCode submissions because I don't want to make a second repo for that)
+My solutions to [/r/dailyprogrammer] challenges
 
-### Easy
+#### Easy
 - [#207] Bioinformatics 1: DNA Replication [[Python]](/Python/Easy/207-bioinformatics-1.py) [[Extra Challenge]](Python/Easy/207-bioinformatics-extra.py)
 - [#214] Calculating the standard deviation [[Python]](/Python/Easy/214-standard-deviation.py)
 
-### Intermediate
+#### Intermediate
 - [#238] Fallout Hacking Game [[Java]](/Java/Intermediate/FalloutGame.java)
+
+### Now includes random LeetCode submissions I want to save, but I didn't want to make a second repo for that
+
+#### Easy
+- [#494] Largest Time For Given Digits [[Python]](/Python/Easy/949-largest-time.py)
 
 [/r/dailyprogrammer]:http://www.reddit.com/r/DailyProgrammer
 [#207]:https://www.reddit.com/r/dailyprogrammer/comments/2zyipu/20150323_challenge_207_easy_bioinformatics_1_dna/
 [#214]:https://www.reddit.com/r/dailyprogrammer/comments/35l5eo/20150511_challenge_214_easy_calculating_the/
 [#238]:https://www.reddit.com/r/dailyprogrammer/comments/3qjnil/20151028_challenge_238_intermediate_fallout/
+[#494]:https://leetcode.com/problems/largest-time-for-given-digits/
