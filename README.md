@@ -1,5 +1,5 @@
 # daily-programmer
-My solutions to [/r/dailyprogrammer] challenges
+My solutions to [/r/dailyprogrammer] challenges (now includes random LeetCode submissions because I don't want to make a second repo for that)
 
 ### Easy
 - [#207] Bioinformatics 1: DNA Replication [[Python]](/Python/Easy/207-bioinformatics-1.py) [[Extra Challenge]](Python/Easy/207-bioinformatics-extra.py)
