@@ -1,3 +1,6 @@
+# September 1 2020
+# Your runtime beats 13.74 % of python submissions
+# Your memory usage beats 25.19 % of python submissions
 class Solution(object):
     def largestTimeFromDigits(self, A):
         """
